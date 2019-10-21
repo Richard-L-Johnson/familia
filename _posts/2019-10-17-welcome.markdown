@@ -1,0 +1,15 @@
+---
+layout: page
+title:  "Welcome Santiago Johnson to the world!"
+date:   2019-10-17 14:05:15 -0700
+categories: Santiago Updates
+author: "Richard"
+---
+# Say Hello to Mr. Santiago Johnson <br>
+
+Santiago was born to Richard and Perla Johnson in 2019. Richard and Perla are
+elated to have the opportunity to raise a healthy and happy child. 
+
+<figure><center>
+  <img width="300" src="https://gallery.mailchimp.com/96050d6198733cfea0f26d4cd/images/07ea2db4-f056-4855-86b6-3fb1636c1c57.jpeg"/>
+</center></figure>

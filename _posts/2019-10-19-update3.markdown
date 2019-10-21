@@ -1,0 +1,40 @@
+---
+layout: page
+title:  "Santiago with Family and Friends"
+date:   2019-10-19 14:05:15 -0700
+categories: Santiago Updates
+author: "Richard"
+---
+# Meet and Greet <br>
+
+Santiago is meeting family and friends. He likes to give each new person he meets
+a discerning look and then warms up to say hello.
+
+<center> Grandpa Johnson
+<figure><center>
+  <img width="300" src="https://gallery.mailchimp.com/96050d6198733cfea0f26d4cd/images/2288c0a5-d99d-47e1-908b-6b27a26e4855.jpeg"/>
+</center></figure>
+
+
+<center> Abuela Perez
+<figure><center>
+  <img width="300" src="https://gallery.mailchimp.com/96050d6198733cfea0f26d4cd/images/3e459d1c-3bc9-4cb6-b760-92864e3faf5a.jpeg"/>
+</center></figure>
+
+
+<center> Grandma Johnson
+<figure><center>
+  <img width="300" src="https://gallery.mailchimp.com/96050d6198733cfea0f26d4cd/images/19cffad4-cfd7-4e3b-bf9e-36e4b89e9691.jpeg"/>
+</center></figure>
+
+
+<center> Primo Leo
+<figure><center>
+  <img width="300" src="https://gallery.mailchimp.com/96050d6198733cfea0f26d4cd/images/0aec8926-6f33-4c30-a536-4c78c56bfd8c.jpeg"/>
+</center></figure>
+
+
+<center> Uncle Jordan
+<figure><center>
+  <img width="300" src="https://gallery.mailchimp.com/96050d6198733cfea0f26d4cd/images/ca56714f-ad68-4e6c-944c-6129be57541b.jpeg"/>
+</center></figure>

@@ -1,0 +1,15 @@
+---
+layout: page
+title:  "Santiago is in the building"
+date:   2019-10-17 14:05:15 -0700
+categories: Santiago Updates
+author: "Richard"
+---
+# Welcome Home <br>
+
+Santiago is getting settled into his new home. We are all adjusting to the new
+family structure.
+
+<figure><center>
+  <img width="300" src="https://gallery.mailchimp.com/96050d6198733cfea0f26d4cd/images/1d356173-6d43-4e53-a27f-4b764f35ba9a.jpeg"/>
+</center></figure>
