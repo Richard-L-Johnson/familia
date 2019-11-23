@@ -11,5 +11,5 @@ Santiago is now over one month old and is growing and changing each and every da
 
 <center> 1 Month
 <figure><center>
-  <img width="300" src="https://gallery.mailchimp.com/96050d6198733cfea0f26d4cd/images/74470142-b0e5-4263-b61b-e2c1e2b3fe24.jpeg"/>
+  <img width="500" src="https://gallery.mailchimp.com/96050d6198733cfea0f26d4cd/images/74470142-b0e5-4263-b61b-e2c1e2b3fe24.jpeg"/>
 </center></figure>
