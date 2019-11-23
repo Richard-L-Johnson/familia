@@ -1,1 +1,15 @@
-Hello 
+---
+layout: page
+title:  "Santiago with Family and Friends"
+date:   2019-11-23 14:05:15 -0700
+categories: Santiago Updates
+author: "Richard"
+---
+# A Growing Boy <br>
+
+Santiago is now 6 weeks old and is growing and changing each and every day. 
+
+<center> 1 Month
+<figure><center>
+  <img width="300" src="/Users/ywe/Documents/GitHub/familia/IMG_8757.JPG"/>
+</center></figure>
