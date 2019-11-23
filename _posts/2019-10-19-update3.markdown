@@ -41,7 +41,7 @@ a discerning look and then warms up to say hello.
   
   <center> Uncle Henri
 <figure><center>
-  <img width="300" src="/Users/ywe/Documents/GitHub/familia/IMG_0806.JPG"/>
+  <img width="300" src="IMG_0806.JPG"/>
 </center></figure>
   
   
