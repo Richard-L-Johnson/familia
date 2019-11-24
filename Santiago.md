@@ -14,7 +14,7 @@ enjoys breastmilk, sleeping, and long walks in his stroller.
 <figure><center>
   <img width="550" src="https://gallery.mailchimp.com/96050d6198733cfea0f26d4cd/images/a39c7c74-2bb8-4910-bca6-e7c547977252.jpeg"/>
 </center></figure>
-<center> Santiagos ride home from the hospital
+
 
 
 <center> Eyes that make the ladies go crazy
